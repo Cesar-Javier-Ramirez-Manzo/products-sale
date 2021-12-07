@@ -213,7 +213,7 @@ const validate = values =>{
                     <th>ID</th>
                     <th>Nombre</th>
                     <th>Costo</th>
-                    <th>Costo+IVA:</th>
+                    <th>Costo+IVA</th>
                     <th>Precio</th>
                     <th>Acciones</th>
                   </tr>
