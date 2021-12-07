@@ -2,26 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#cube{
+  vertical-align: bottom;
+  margin: 1%;
+  width: 15%;
+  height: 15%;
+  border-radius: 5%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#tabla{
+  background-color: burlywood;
 }
-
 .App-header {
-  background-color: #282c34;
+  background-color: #1D3436;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #6BACB2;
 }
 
 .App-link {
