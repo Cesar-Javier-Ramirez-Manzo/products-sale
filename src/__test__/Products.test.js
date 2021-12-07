@@ -4,7 +4,6 @@ import '@testing-library/jest-dom/extend-expect'
 import Products from '../components/Products';
 
 
-
 test('should render content', () => {
     render(<Products/>);
     const table= screen.getByTestId('tableH')
